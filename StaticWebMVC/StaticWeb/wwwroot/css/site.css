@@ -55,3 +55,44 @@ li.nav-item {
     padding: 10px;
     padding-left: 20px;
 }
+.upper-story {
+    background-color: #216B85;
+    margin-right:-15%;
+    margin-left:-15%;
+    padding:30px;
+    color: white;
+    text-align:center;
+}
+.upper-story h2 {
+    color: #78C2DD;
+    font-size: 35px;
+    font-weight:600;
+}
+.upper-story p{
+    font-size: 18px;
+    font-weight:400;
+}
+.middle-para {
+    background-color: #F0F7F7;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    margin-left:-15%;
+    margin-right:-15%;
+    padding: 50px;
+}
+
+.bottom-left-img {
+    background-color: #E0EDED;
+    border-radius: 10px;
+}
+
+.bottom-right-text {
+    background-color: #E0EDED;
+    border-radius: 10px;
+    padding: 40px;
+}
+.bottom-stroy{
+    margin-left: -15%;
+    margin-right: -15%;
+}
